@@ -1,0 +1,4 @@
+# youtube_analysis
+Bu proje, belirli bir YouTube kanalındaki videoların istatistiklerini analiz etmeyi amaçlar. Kullanıcı, kanal veya video verilerini girerek toplam görüntülenme sayısı, beğeni ve yorum istatistiklerini görebilir. Ayrıca videoların performans trendleri ve popüler içerik türleri görselleştirilerek, kanalın içerik stratejisini geliştirmeye yönelik bilgiler sunar. Python kullanılarak API ve veri işleme kütüphaneleri ile hazırlanmıştır.
+
+This project aims to analyze the statistics of videos from a specific YouTube channel. Users can input channel or video data to view total views, likes, and comment statistics. Additionally, video performance trends and popular content types are visualized to provide insights for improving the channel’s content strategy. The project is built with Python using APIs and data processing libraries.
